@@ -339,6 +339,11 @@ uv run python -m unittest discover -s tests -v
 
 覆盖分词（中/英）、切段、BM25 排序与存盘往返、扩词排除规则、证据合并且上限、命中句聚焦截断。
 
+## 许可
+
+MIT，见 [LICENSE](LICENSE)。JEV 本体是独立项目（[OpenJev](https://github.com/GPT-AGI/OpenJev)），
+不随本仓库分发，遵循它自己的许可。
+
 ## 目录
 
 ```
