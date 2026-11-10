@@ -1,0 +1,13 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# mini_sag_wiki: BM25 index artifacts (rebuildable with `mini_sag_wiki index`)
+data/.wiki/
